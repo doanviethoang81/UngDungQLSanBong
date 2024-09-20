@@ -1,0 +1,119 @@
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.AssemblyReference.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.AssemblyReference.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyDichVu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmThongTinNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong -Nhap\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDatSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDoanhThu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmHoaDon.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyKhachHang.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csprojAssemblyReference.cache
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDatSan.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDichVuThanhToan.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDoanhThu.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmHoaDon.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanSan.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyDichVu.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyKhachHang.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+C:\Users\Hai\Downloads\CNPM_QuanLySanBong (1)\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.AssemblyReference.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDatSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDichVuThanhToan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDoanhThu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmHoaDon.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyDichVu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyKhachHang.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong (1)_Hai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.AssemblyReference.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDatSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDichVuThanhToan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDoanhThu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmHoaDon.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyDichVu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyKhachHang.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBongHai\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmThanhToan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe.config
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\bin\Debug\CNPM_QuanLySanBong.pdb
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.AssemblyReference.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDangNhap.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDatSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmThanhToan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmDoanhThu.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmGiaoDien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmHoaDon.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanSan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmNhanVien.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLyKhachHang.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.frmQuanLySan.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.Properties.Resources.resources
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.GenerateResource.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.exe
+D:\HỌC KÌ 6\Do-An-San-Bong\CNPM_QuanLySanBong - Copy\CNPM_QuanLySanBong\obj\Debug\CNPM_QuanLySanBong.pdb
